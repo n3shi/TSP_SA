@@ -5,7 +5,7 @@ TSP solution for simulated annealing algorithm
 *.ini
 
 # Run app
-SA program -> SA.exe
+SA program/SA.exe
 
 # Results
 Same file as last row in *.ini
